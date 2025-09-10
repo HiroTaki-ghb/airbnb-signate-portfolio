@@ -11,3 +11,6 @@ __pycache__/
 # データファイル
 train.csv
 test.csv
+
+#隠しファイル
+desktop.ini
