@@ -1,0 +1,13 @@
+# 作業用フォルダ
+ignore/
+botsu/
+
+# Python キャッシュ
+__pycache__/
+
+# 環境変数ファイル
+.env
+
+# データファイル
+train.csv
+test.csv
