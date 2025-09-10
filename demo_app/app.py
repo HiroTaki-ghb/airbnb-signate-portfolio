@@ -5,7 +5,7 @@ import pickle
 from geopy.geocoders import Nominatim
 
 # --- モデル読み込み ---
-with open("model.pkl", "rb") as f:
+with open("demo_app/model.pkl", "rb") as f:
     model = pickle.load(f)
 
 st.title("民泊価格予測アプリ")
